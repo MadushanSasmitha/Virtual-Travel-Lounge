@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "id": "paris",
+      "title": "Paris",
+      "region": "France",
+      "imageNames": ["Paris"],
+      "audioName": "paris.mp3",
+      "summary": "The city of lights, famous for its art, fashion, and landmarks.",
+      "facts": ["Population: 2.1 million", "Founded: 3rd century BC"],
+      "quiz": [
+        {
+          "question": "What is the name of the famous tower in Paris that attracts millions of visitors each year?",
+          "options": ["Eiffel Tower", "Leaning Tower", "Big Ben", "Space Needle"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which river flows through the city of Paris?",
+          "options": ["Seine", "Thames", "Danube", "Rhine"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the name of the world-renowned art museum located in Paris?",
+          "options": ["Louvre", "Prado", "Uffizi", "Hermitage"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "kyoto",
+      "title": "Kyoto",
+      "region": "Japan",
+      "imageNames": ["Kyoto"],
+      "audioName": "kyoto.mp3",
+      "summary": "Historic city known for temples, gardens, and traditional culture.",
+      "facts": ["Population: 1.5 million", "Founded: 794 AD"],
+      "quiz": [
+        {
+          "question": "Kyoto is famous for which traditional Japanese structure?",
+          "options": ["Pagodas", "Castles", "Skyscrapers", "Pyramids"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the name of the famous bamboo forest in Kyoto?",
+          "options": ["Arashiyama", "Sagano", "Fushimi", "Gion"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Kyoto was once the capital of Japan. In which century did it become the capital?",
+          "options": ["8th", "12th", "16th", "19th"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "newyork",
+      "title": "New York",
+      "region": "USA",
+      "imageNames": ["NewYork"],
+      "audioName": "newyork.mp3",
+      "summary": "The city that never sleeps, known for its skyline and culture.",
+      "facts": ["Population: 8.8 million", "Founded: 1624"],
+      "quiz": [
+        {
+          "question": "What is the name of the large park located in the center of Manhattan?",
+          "options": ["Central Park", "Hyde Park", "Golden Gate Park", "Millennium Park"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which iconic statue stands on Liberty Island in New York Harbor?",
+          "options": ["Statue of Liberty", "Christ the Redeemer", "The Thinker", "Venus de Milo"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the name of New York City's famous theater district?",
+          "options": ["Broadway", "West End", "La Scala", "Opera House"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "santorini",
+      "title": "Santorini",
+      "region": "Greece",
+      "imageNames": ["Santorini"],
+      "audioName": "santorini.mp3",
+      "summary": "A stunning island known for its whitewashed buildings and blue domes.",
+      "facts": ["Population: 15,500", "Formed: Volcanic eruption"],
+      "quiz": [
+        {
+          "question": "Santorini is part of which country?",
+          "options": ["Greece", "Italy", "Spain", "Turkey"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What natural event shaped the island of Santorini?",
+          "options": ["Volcanic eruption", "Earthquake", "Flood", "Landslide"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What color are the iconic domes of many churches in Santorini?",
+          "options": ["Blue", "Red", "Green", "Yellow"],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ]
+}
